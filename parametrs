@@ -3,9 +3,6 @@
 while true
 do
 
-echo "============================================================"
-curl -s https://raw.githubusercontent.com/nodersteam/script/main/Noders.sh | bash
-echo "============================================================"
 
 
 PS3='Select an action: '
